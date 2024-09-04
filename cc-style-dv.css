@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+.cc-body-style5{
+    width: 700px;
+    height: 5500px;
+    background-color: #E1D5B7;
+}
+.cc-caption-event2{
+    color: white;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    margin: 230px 0px 0px 130px;
+}
+.small-caption-value,.df-block-value-v2-style{
+    color: #A59A7E;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 60px;
+    margin: 200px 0px 0px 130px;
+}
+.dv-text-style{
+    color: white;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    margin: 80px 0px 0px 100px;
+}
+.dv-image-block-style{
+    width: 500px;
+    height: 412px;
+}
+.border-top-line{
+    border-top: 30px solid #A59A7E;
+    width: 1500px;
+}
+.dv-image-block{
+    margin: -600px 0px 0px 900px;
+}
+.span-text{
+    margin: 50px -350px 0px 200px;
+}
+.span-text-hero{
+    color: #A59A7E;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 23px;
+}
+.dv-text-style-v2{
+    color: #ffffff;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 23px;
+    margin: 53px -700px 0px 130px;
+}
+.df-block-value-v3-style{
+    color: #A59A7E;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 60px;
+    margin: 200px -120px 0px 130px;
+}
+.boxes-block{
+    display: flex;
+    flex-direction: row;
+}
+.whiskers-box,.mightylions-box,.zenpaws-box{
+    width: 370px; 
+    height: 353px; 
+    margin: 100px 0px 0px 100px;
+}
+.text-value-v2{
+    color: #ffffff;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 23px;
+    display: flex;
+    gap: 250px;
+    margin: 22px -700px 0px 150px;
+}

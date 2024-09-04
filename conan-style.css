@@ -1,0 +1,179 @@
+.conan{
+    width: 400px; 
+    height: 518px;
+    animation: pulse 1.5s infinite;
+    animation-iteration-count: 5;
+}
+@keyframes pulse{
+    0%{
+        transform: scale(1.1);
+    }
+    50%{
+        transform: scale(1.18);
+    }
+    100%{
+        transform: scale(1.1);
+    }
+}
+.df-block-value-v3-style{
+    color: #A59A7E;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 60px;
+    margin: 200px -120px 0px 130px;
+}
+.common-caption-conan{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin: 122px 0px 0px 132px;
+}
+.conan-text-style{
+    color: white;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+}
+.table-science-fair-v1{
+    border-collapse: collapse;
+    font-size: 24px;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    color: #A59A7E;
+    margin: 120px -800px 0px 100px;
+}
+.dv-text-style-v2{
+    color: #ffffff;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 23px;
+    margin: 53px -700px 0px 130px;
+}
+.evolution-conan-block{
+    display: flex;
+    flex-direction: row;
+    gap: 120px;
+    margin: 100px -800px 0px 100px;
+}
+.conan-img-evolution{
+    display: flex;
+    flex-direction: row;
+    gap: 340px;
+    margin: -300px -800px 0px 180px;
+}
+.conan-caption-name-rank{
+    display: flex;
+    flex-direction: row;
+    gap: 640px;
+    margin: -1000px -800px 0px 370px;
+    color: #ffffff;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 74.5;
+}
+.conan1{
+    width: 400px;
+    height: 345px;
+}
+.conan2{
+    width: 400px; 
+    height: 505px;
+}
+.conan1:hover{
+    transform: scale(1.2);
+    transition-duration: 1s;
+}
+.conan2:hover{
+    transform: scale(1.2);
+    transition-duration: 1s;
+}
+.circle-block{
+    width: 600px;
+    height: 600px;
+    background-color: #D2C39C;
+    border-radius: 300px;
+}
+.conan-block-all{
+    margin-top: 188px;
+}
+.conan-block-all-style{
+    width: 1500px;
+    height: 750px;
+    background-color: #D2C39C;
+}
+.dialogue-sprites-conan{
+    display: flex;
+    flex-direction: row;
+    margin: -700px -300px 0px 50px;
+    gap: 100px;
+}
+.conan-text-skills-style{
+    color: #ffffff;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 33px;
+    margin: -150px -350px 0px 300px;
+}
+.conan-skills-block{
+   margin: 80px 0px 0px 140px;
+}
+.conan-block-skills-style-v2{
+    display: flex;
+    justify-content: space-around;
+    gap: 120px;
+    margin: 120px -500px 0px 300px;
+}
+.skill-block{
+    width: 300px;
+    height: 400px;
+    background-color: #D2C39C;
+}
+.image-skill-conan{
+    display: flex;
+    justify-content: space-around;
+    gap: 120px;
+    margin: -310px -500px 0px 300px;
+}
+.conan-text-style-skills{
+    color: #A59A7E;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    display: flex;
+    justify-content: space-around;
+    gap: 170px;
+    margin: 50px -500px 0px 350px;
+}
+.conan-text-style-v6{
+    margin: -80px -400px 0px 300px;
+}
+tr td{
+    border: 2px solid white;
+    width: 250px;
+    height: 70px;
+}
+.table-science-fair-v6{
+    border-collapse: collapse;
+    font-size: 24px;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    color: #A59A7E;
+    margin: 120px -800px 0px 370px;
+}
+.conan-facts-text{
+    font-size: 30px;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    color: #A59A7E;
+    margin: 30px -200px 0px 100px;
+}
+.conan-fanart-images{
+    display: flex;
+    flex-direction: row;
+    gap: 150px;
+    margin: 233px -200px 0px 130px;
+}
+.gif-chat{
+    margin: 0px -600px 0px 500px;
+}

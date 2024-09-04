@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+.cc-body-style{
+    width: 700px;
+    height: 5000px;
+    background-color: #E1D5B7;
+}
+.cc-photo-style{
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1510px;
+    border-top: 30px solid #A59A7E;
+    border-bottom: 70px solid white;
+}
+.cc-logo-block{
+    margin: -1030px 0px 0px 40px;
+}
+.cc-heroes-cats{
+    display: flex;
+    gap: 450px;
+    margin: 180px 0px 0px 80px;
+}
+.purrcilla,.mewton{
+    width: 400px; 
+    height: 518px;
+    animation: pulse 1.5s infinite;
+    animation-iteration-count: 3;
+}
+@keyframes pulse{
+    0%{
+        transform: scale(1.1);
+    }
+    50%{
+        transform: scale(1.18);
+    }
+    100%{
+        transform: scale(1.1);
+    }
+}
+.purrcilla-chat{
+    width: 300px;
+    height: 300px;
+    margin: -100px 0px 0px -400px;
+}
+.purrcis-chat{
+    margin: -100px 0px 0px -600px;
+}
+.purrcis-chat1{
+    width: 300px;
+    height: 300px;
+}
+.purrcis{
+    width: 300px; 
+    height: 245px; 
+    margin: 200px 0px 0px -300px;
+    animation: pulse 1.5s infinite;
+    animation-iteration-count: 5;
+    animation-delay: 5s;
+}
+@keyframes pulse{
+    0%{
+        transform: scale(1.1);
+    }
+    50%{
+        transform: scale(1.18);
+    }
+    100%{
+        transform: scale(1.1);
+    }
+}
+.cc-figure-block{
+    display: flex;
+    flex-direction: column;
+    margin: 35% 0% 0% 30%;
+}
+.cc-figure-block-style{
+    width: 1100px;
+    height: 750px;
+    background-color: #D2C39C;
+    border-radius: 27px;
+}
+.event-cc-photo{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.cc-caption{
+    color: white;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 40px;
+}
+.cc-btn-block{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.cc-btn-style{
+    background-color: white;
+    color: #A59A7E;
+    border: none;
+    width: 320px;
+    height: 90px;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+    border-radius: 40px;
+}
+.cc-btn-style:hover{
+    background-color: #A59A7E;
+    color: white;
+    transform: scale(1.2);
+    transition-duration: 1s;
+}
+.cc-footer-style{
+    background-color: #A59A7E;
+    width: 1510px;
+    height: 830px;
+    border-top: 70px solid white;
+}
+.cc-logo-block-footer{
+    margin: 600px 0px 0px 40px;
+}
+.cc-ul-spisok{
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    line-height: 2;
+    margin: -600px 0px 0px 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.cc-images-social{
+    display: flex;
+    gap: 30px;
+    justify-content: end;
+    margin: 90px 20px 0px 0px;
+}
+.cc-store-caption{
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    margin: 40px 0px 0px 200px;
+}

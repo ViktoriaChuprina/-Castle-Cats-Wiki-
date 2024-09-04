@@ -1,0 +1,44 @@
+.cc-body-style7{
+    width: 700px;
+    height: 5000px;
+    background-color: #E1D5B7;
+}
+.block01{
+    width: 450px;
+    height: 500px;
+    background-color: #D2C39C;
+}
+.common-heroes-line-block{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    margin: 200px -800px 0px 40px;
+}
+.common-heroes-images-block{
+    display: flex;
+    flex-direction: row;
+    margin: -4198px -800px 4320px 60px;
+}
+.common-heroes-images{
+    display: flex;
+    gap: 180px;
+    padding: 70px 0px 10px 0px;
+}
+.cc-common-style{
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+}
+.cc-heroes-block-main{
+    display: flex;
+    justify-content: center;
+    gap: 400px;
+    margin: -3570px -500px 3080px 300px;
+}
+.cc-caption1{
+    color: #ffffff;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    margin-top: -1000px;
+}
